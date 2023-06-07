@@ -70,9 +70,9 @@
 <key>PayloadDescription</key>
 <string>NextDNS By ThanhBinhXiao</string>
 <key>PayloadDisplayName</key>
-<string>Cấu Hình NextDNS By Khơindvn</string>
+<string>Cấu Hình NextDNS By ThanhBinhXiao</string>
 <key>PayloadIdentifier</key>
-<string>Khơindvn</string>
+<string>ThanhBinhXiao</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadScope</key>
